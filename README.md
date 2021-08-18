@@ -10,7 +10,7 @@
 <br>
 
 # | Live View
-- [Live Site Link](flex-social-proof-fm.netlify.app)
+- [Live Site Link](https://flex-social-proof-fm.netlify.app)
 - [FrontEnd Mentor Solution](https://www.frontendmentor.io/solutions/social-proof-section-using-html5-and-css3-flex-box-_xzcRBj1V)
 
 <br>
